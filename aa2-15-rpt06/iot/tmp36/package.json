@@ -11,7 +11,7 @@
     "node",
     "arduino"
   ],
-  "author": "aa19",
+  "author": "aa15",
   "license": "MIT",
   "dependencies": {
     "serialport": "^9.0.1",
